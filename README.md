@@ -18,6 +18,7 @@ I'm a diligent alchemist of code, and some of my potions are available for your 
 
 A work in progress...
 
+- **CS50P Problem Sets:** [CS50P](https://github.com/Gabbibuu/CS50P) - _My solutions for CS50's Introduction to Programming with Python 2023._
 - **CS50P Final Project:** [Pomodoro Timer](https://github.com/Gabbibuu/Pomodoro-Timer) - _Boost your productivity with a minimalistic Pomodoro Timer – your secret weapon for efficient time management._
 
 <!--- 
